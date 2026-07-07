@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CampusFlow.Api/CampusFlow.Api.csproj" />
+    <Project Path="src/CampusFlow.Application/CampusFlow.Application.csproj" />
+    <Project Path="src/CampusFlow.Domain/CampusFlow.Domain.csproj" />
+    <Project Path="src/CampusFlow.Infrastructure/CampusFlow.Infrastructure.csproj" />
+    <Project Path="src/CampusFlow.Web/CampusFlow.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CampusFlow.Application.Tests/CampusFlow.Application.Tests.csproj" />
+    <Project Path="tests/CampusFlow.Domain.Tests/CampusFlow.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
